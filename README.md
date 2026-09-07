@@ -135,7 +135,7 @@ conversation_id = min(userA, userB) * 1_000_000 + max(userA, userB)
 ### 📱 Flutter Client
 State-managed with plain `setState` + `StreamController`, secure token storage, exponential-backoff WebSocket reconnection.
 
-**[→ syncpulse-flutter](#)**
+**[→ [syncpulse-flutter](https://github.com/Amine-DevAI/syncpulse-flutter)](#)**
 
 </td>
 <td width="33%" valign="top">
@@ -143,7 +143,7 @@ State-managed with plain `setState` + `StreamController`, secure token storage, 
 ### 🔧 Go Backend
 Hexagonal layout, JWT + bcrypt auth, WebSocket hub, gRPC client to the Booker, `pgx`-backed Postgres store.
 
-**[→ syncpulse-backend](#)**
+**[→ [syncpulse-backend](https://github.com/Amine-DevAI/syncpulse-backend)](#)**
 
 </td>
 <td width="33%" valign="top">
@@ -151,13 +151,12 @@ Hexagonal layout, JWT + bcrypt auth, WebSocket hub, gRPC client to the Booker, `
 ### 🤖 AI Booker Service
 LangChain agent over OpenRouter, gRPC server, tool-calling against a live Postgres slots table.
 
-**[→ syncpulse-booker](#)**
+**[→ [syncpulse-booker](https://github.com/Amine-DevAI/syncpulse-booker)](#)**
 
 </td>
 </tr>
 </table>
 
-> Replace the `#` links above with your actual GitHub repo URLs once each service repo is created — e.g. `https://github.com/<your-username>/syncpulse-backend`.
 
 ---
 
