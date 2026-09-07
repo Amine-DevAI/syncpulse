@@ -199,6 +199,6 @@ MIT — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-Built by [Your Name](#) · [syncpulse-flutter](#) · [syncpulse-backend](#) · [syncpulse-booker](#)
+Built by [Mohamed Amine Mammar El Hadj](#) · [syncpulse-flutter](#) · [syncpulse-backend](#) · [syncpulse-booker](#)
 
 </div>
